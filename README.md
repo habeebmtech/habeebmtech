@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @habeebmtech
 - 👀 I’m interested in ...
 - 🌱 I’m currently working as devops engineer..
-- 💞️ I’m looking to collaborate on new technology ...
+- 💞️ I’m looking to collaborate with a new organization
+
 - 📫 
 
 <!---
